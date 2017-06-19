@@ -36,7 +36,7 @@ You can read the [Documentation](https://github.com/TheAlphaLabs/AlphaGlassSDK/w
 # Download
 
 This SDK is under active development. \
-The update will be available as soon as the SDK is ready \
+The update will be available as soon as the SDK is ready
 
 
 # Feedback
